@@ -8,7 +8,7 @@
 
 ## 一键脚本
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/slobys/SSL-Renewal/main/acme.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/meiao123/SSL-Renewal/main/acme.sh)
 ```
 
 ## 注意事项  
