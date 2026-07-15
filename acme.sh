@@ -50,7 +50,7 @@ echo "🔍 正在下载证书申请脚本..."
 WORK_DIR="/root/SSL-Renewal"
 rm -rf "$WORK_DIR"
 
-git clone https://github.com/slobys/SSL-Renewal.git "$WORK_DIR"
+git clone https://github.com/meiao123/SSL-Renewal.git "$WORK_DIR"
 
 # 赋予执行权限并运行
 echo "🚀 开始运行证书申请脚本..."
